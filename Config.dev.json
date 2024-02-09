@@ -18,9 +18,9 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "hj1614433@gmail.com",
-    "password": "zzzxxx",
-    "2FASecret": "922763",
+    "email": "",
+    "password": "",
+    "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -36,13 +36,13 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100087967063688",
-    "100082866835315"
+    "61555393416824",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "6772177669461691"
+      "61555393416824"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
@@ -58,7 +58,7 @@
   "timeZone": "Asia/jakarta",
   "credentials": {
     "gmailAccount": {
-      "email": "Mehidihassanmahim@gmail ",
+      "email": "",
       "clientId": "527319313917-1o9nfj6plt95406oa5qkpsjru18ienh6.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04kVpOOoYCxxhCgYIARAAGAQSNwF-L9Ir03cObm8RkuP8eVdaP_E5vLe-bB0em7RNNx59Xn1-wcHMC6GXh-UdslEOmHP0MgnnVOg",
